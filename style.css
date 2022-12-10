@@ -1,0 +1,74 @@
+*{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+.grp8{
+    position: absolute; 
+    color: white;
+width: 1181px;
+height: 712px;
+left: 198px;
+top: 154px;
+border: 5px red;
+}
+
+form{
+    position:absolute;
+    width: 1181px;
+height: 712px;
+left: 198px;
+top: 260px;
+right: 349px;
+
+}
+h1{
+    padding-bottom: 3rem;
+    
+position: absolute;
+width: 600px;
+height: 144px;
+left: 195px;
+top: 154px;
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+}
+.new{
+    position: absolute;
+
+padding-top: 30px;
+
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+}
+input{
+    border: 0px;
+    border-color: black;
+   
+    padding-top: 30px;
+left: 320px;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+}
+button{
+    position: absolute;
+width: 226px;
+height: 58px;
+left: 0px;
+top: 450px;
+color: black;
+background: #FFFFFF;
+}
+st{
+    padding-right: 5px;
+}
